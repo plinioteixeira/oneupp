@@ -1,0 +1,9 @@
+.alinhamento{
+    display: inline-flex;
+    flex-direction: column;
+    padding: 10px;
+}
+
+footer{
+ align-items: center;
+}

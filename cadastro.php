@@ -1,15 +1,16 @@
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Login</title>
-    <link rel="stylesheet" href="css/style.css">
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Cadastro</title>
+  <link rel="stylesheet" href="css/cadastro.css">
 </head>
 <body>
-    <header></header>
-
+  
+</body>
+</html>
     <main>
     <div class="content">
       <div id="login">
@@ -20,17 +21,14 @@
               <label for="nome">Nome:</label>
               <input id="nome" name="nome" required="required" type="text" placeholder="Digite seu nome" /> 
             </p>
-
             <p> 
               <label for="email">E-mail:</label>
               <input id="email" name="email" required="required" type="text" placeholder="Digite seu e-mail"/>
             </p>
-
             <p> 
               <label for="senha">Senha:</label>
               <input id="senha" name="senha" required="required" type="password" placeholder="Digite sua senha" /> 
             </p>
-
             <p> 
               <label for="confirma-senha">Confirme sua senha:</label>
               <input id="confirma-senha" name="confirma-senha" required="required" type="password" placeholder="Digite sua senha" /> 
@@ -48,8 +46,3 @@
         </div>
       </div>
     </main>
-
-    <footer></footer>
-
-</body>
-</html>
